@@ -1,6 +1,6 @@
-This closes #.
+THIS CLOSES #14 
 
-**Changes made:**
+#### Changes made:
 - 
 - 
 - 
